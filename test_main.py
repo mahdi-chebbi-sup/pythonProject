@@ -1,4 +1,4 @@
-from calculator import add
+from main import add
 
 import pytest
 
